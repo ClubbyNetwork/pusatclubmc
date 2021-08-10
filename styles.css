@@ -30,16 +30,16 @@
 
 .portfolio-logo {
   background: url(images/20210809_202714.png) 50% no-repeat;
-  background-size: relative;
-  height: 200px;
-  width: 200px;
-  margin: auto auto 7px;
+  background-size: cover;
+  height: 150px;
+  width: 150px;
+  margin: auto auto 10px;
 }
 
 .is-compact .portfolio-logo {
   height: 50px;
   width: 50px;
-  margin-top: 10px;
+  margin-top: 7px;
 }
 
 .portfolio-navigation-row {
