@@ -30,7 +30,7 @@
 
 .portfolio-logo {
   background: url(images/20210809_202714.png) 50% no-repeat;
-  background-size: cover;
+  background-size: relative;
   height: 300px;
   width: 300px;
   margin: auto auto 50px;
