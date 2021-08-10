@@ -29,7 +29,7 @@
 }
 
 .portfolio-logo {
-  background: url(images/20210809_202714.png) 100% no-repeat;
+  background: url(images/20210809_202714.png) 50% no-repeat;
   background-size: relative;
   height: 300px;
   width: 300px;
@@ -37,8 +37,8 @@
 }
 
 .is-compact .portfolio-logo {
-  height: 50px;
-  width: 50px;
+  height: 300px;
+  width: 300px;
   margin-top: 7px;
 }
 
