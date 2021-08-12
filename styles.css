@@ -163,6 +163,10 @@ img.article-image {
   margin: auto;
 }
 
+.h2 {
+  color: #64ffda
+}
+
 footer {
   background-image: url(images/footer-background.png);
   background-size: cover;
